@@ -903,6 +903,14 @@ Prirodzený kód
 
 <small>
 
+  Vytvorte pamäť 1Kx16 z čipov 1Kx8.
+   
+  <img width="358" height="273" alt="image" src="https://github.com/user-attachments/assets/93825309-542a-4060-a636-0d42538282b6" />
+
+  Vytvorte pamäť 4Kx4 z čipov 2Kx4
+
+  <img width="364" height="253" alt="image" src="https://github.com/user-attachments/assets/ad34c544-535f-443e-8dbe-f25888224376" />
+
   Rozhodnite, ktoré tvrdenia o úložných zariadeniach sú pravdivé.
   - ~~Všetky stopy v pevnom disku majú rovný počet sektorov.~~
   - ~~V optikcých diskoch sú dáta ukladané do stôp s tvarom sústredených kružníc~~
@@ -959,4 +967,21 @@ Prirodzený kód
   - IPS
   - TFT
   - DPI
+  - 
+
+  Vytvorte pamäť 2Kx4 z čipov 1Kx4
+  
+  <img width="318" height="280" alt="image" src="https://github.com/user-attachments/assets/796499a3-3e0a-4d3c-8c8a-8217757fb416" />
+
+  Vytvorte pamäť 1Kx8 z čipov 1Kx4
+
+  <img width="377" height="255" alt="image" src="https://github.com/user-attachments/assets/3163b4e0-748a-4e54-a691-46021897f6b3" />
+
+  Na obrázku je princíp riadeného tokom dát. Priraďte popis častiam počítača.
+
+  <img width="558" height="252" alt="image" src="https://github.com/user-attachments/assets/643970dd-fd67-44c1-8c80-a9d0e0dee3d9" />
+
+
+
+  
   </small>
