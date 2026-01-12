@@ -399,8 +399,10 @@ Označte pravdivé výroky o procesore 808
   - 4313
 
  Priraďte popisy hlavným častiam procesora 8086.
+ 
+ <img width="429" height="303" alt="image" src="https://github.com/user-attachments/assets/05ebd143-25e1-4cf0-88cc-e11084988be6" />
+
  </small>
-# TODO OBRAZOK
 
 # Komunikácia v počítači 
 
@@ -501,7 +503,8 @@ Priraďte každej časti zbernice jej funkciu.
  - Riadiaca zbernica = rozhoduje čo a kedy sa má uskutočniť
 
  Pomenujte spôsoby prideľovania zbernice.
-# TODO OBRAZOK
+
+<img width="731" height="538" alt="image" src="https://github.com/user-attachments/assets/02e0a5d6-0a01-4e2a-9234-8c5f0e7abf1d" />
 
 Vyberte pravdivé výroky. 
  - ~~Dátová a riadiaca zbernica používajú kódovanie 1 z n~~
@@ -541,6 +544,9 @@ Vytvorte pravdivé výroky o zberniciach:
 <small>
 
  Priraďte popisy k jednotlivým krokom komunikačného protokolu: (AB, DB, MEMW)
+
+<img width="328" height="184" alt="image" src="https://github.com/user-attachments/assets/813b82a7-2420-4938-a4f1-2d86979758c4" />
+
   - 1 Procesor zapíše adresu
   - 2 Procesor zapíše dáta
   - 3 Procesor určí, čo má urobiť
@@ -548,6 +554,9 @@ Vytvorte pravdivé výroky o zberniciach:
   - 5 Procesor ruší dáta a adresu
   
   Priraďte popisy k jednotlivým krokom komunikačného protokolu: (AB, DB, IOW, READY)
+
+<img width="357" height="202" alt="image" src="https://github.com/user-attachments/assets/bc0cc89d-1d11-4c3c-a602-7afd42fc36ec" />
+  
   - 2 Procesor určí čo má urobiť
   - 3 Zariadenie zapíše údaje
   - 4 Zariadenie oznámi zapísanie údajov
@@ -555,6 +564,9 @@ Vytvorte pravdivé výroky o zberniciach:
   - 6 Zariadenie sa odpojí od zbernice
 
   Priraďte popisy k jednotlivým krokom komunikačného protokolu: (AB, DB, IOW, READY)
+
+<img width="390" height="215" alt="image" src="https://github.com/user-attachments/assets/84968346-3aca-46ff-aaa4-f1e9d7b952b1" />
+  
   - 1 Procesor zapíše adresu
   - 2 Procesor zapíše dáta
   - 3 Procesor určí čo sa má robiť
@@ -562,44 +574,58 @@ Vytvorte pravdivé výroky o zberniciach:
   - 5 Procesor ruší príkaz
   
   Vyberte, ktoré kroky robí procesor: (AB, DB, IOR, READY)
-  - 1.
-  - 2.
-  - ~~3.~~
-  - ~~4.~~
-  - 5.
-  - ~~6.~~
-  - ~~7.~~
+
+  <img width="417" height="163" alt="image" src="https://github.com/user-attachments/assets/6238e2ed-2ce0-4537-b060-b42a22b794ef" />
+
+  - 1
+  - 2
+  - ~~3~~
+  - ~~4~~
+  - 5
+  - ~~6~~
+  - ~~7~~
   
   Vyberte, ktoré kroky robí pamäť: (AB, DB, MEMR)
-  - ~~1.~~
-  - ~~2.~~
-  - ~~3.~~
-  - 4.
-  - ~~6.~~
-  - ~~7.~~
-  - 8.
+
+  <img width="374" height="177" alt="image" src="https://github.com/user-attachments/assets/eecc910a-b352-441e-9b46-af6d56bad072" />
+
+  - ~~1~~
+  - ~~2~~
+  - ~~3~~
+  - 4
+  - ~~6~~
+  - ~~7~~
+  - 8
   
  Vyberte, ktoré kroky robí procesor:
-  - 1.
-  - 2.
-  - 3.
-  - ~~4.~~
-  - 6.
-  - ~~7.~~
-  - 8.
+
+ <img width="463" height="193" alt="image" src="https://github.com/user-attachments/assets/80345094-543a-4f6b-a8db-531d72f706dd" />
+
+  - 1
+  - 2
+  - 3
+  - ~~4~~
+  - 6
+  - ~~7~~
+  - 8
   
   Vyberte, ktoré kroky robí V/V zariadenie:
-  - ~~1.~~
-  - ~~2.~~
-  - 3.
-  - 4.
-  - ~~5.~~
-  - 6.
-  - 7.
+
+  <img width="305" height="157" alt="image" src="https://github.com/user-attachments/assets/8c69a970-96b6-443b-a64d-954bb71c7f86" />
+
+  - ~~1~~
+  - ~~2~~
+  - 3 
+  - 4
+  - ~~5~~
+  - 6
+  - 7
 
   Priraďte názvy k obrázkom:
+
+  <img width="427" height="281" alt="image" src="https://github.com/user-attachments/assets/3087fadf-1d7b-4b97-a2f5-97dcd05731ee" />
+
   </small>
-  # TODO OBRAZOK
   
   # Vstupno výstupný podsystém
   
@@ -818,14 +844,12 @@ Podľa energetickej závislosti:
   - Povoľuje alokáciu blokov len určitej veľkosti = BUDDY FIT
   
   Doplňte hierarchický systém pamäte.
-  </small>
-  # TODO IMAGE
-  
-  <small>
+
+  <img width="382" height="127" alt="image" src="https://github.com/user-attachments/assets/7eb940b0-2c74-42e9-a443-7ca740e67534" />
 
   Rozhodnite, ktoré tvrdenia o pamätiach sú pravdivé.
   - ~~Sekundárna pamäť je energeticky závislá~~
-  - ~~ Každý cache pamäť je rozdelená na pamäť programu a pamäť údajov.~~
+  - ~~Každý cache pamäť je rozdelená na pamäť programu a pamäť údajov.~~
   - Operačná pamäť obsahuje aktuálne spustené programy
   - Pri použití stránkovania nie je nikdy potrebná defragmentácia pamäte
   - Dynamickú pamäť je potrebné neustále obnovovať
